@@ -1,2 +1,5 @@
-class Goal{
-   public static void main (string[argd])
+public class PrintOOPS {
+    public static void main(String[] args) {
+        System.out.println("OOPS");
+    }
+}
